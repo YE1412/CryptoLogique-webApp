@@ -172,8 +172,8 @@
    - **Ctrl-R**    : Recharger l'application
    - **Ctrl-F**    : Basculer affichage plein écran
    - **Ctrl-M**    : Minimiser l'application
-   - **Alt-H**     : Basculer sur l'onglet 'Aide'
-   - **Alt-Ctrl-A**: Afficher la page 'A propos'
+   - **Alt-A**     : Basculer sur l'onglet 'Aide'
+   - **Alt-Ctrl-A**: Afficher la page 'À propos'
    - **Alt-Ctrl-0**: Changer langage en français
    - **Alt-Ctrl-1**: Changer langage en anglais
 
@@ -183,7 +183,7 @@
    - **Cmd-R**       : Recharger l'application
    - **Cmd-F**       : Basculer affichage plein écran
    - **Cmd-M**       : Minimiser l'application
-   - **Option-Cmd-A**: Afficher la page 'A propos'
+   - **Option-Cmd-A**: Afficher la page 'À propos'
    - **Option-Cmd-à**: Changer langage en français
    - **Option-Cmd-&**: Changer langage en anglais
 
