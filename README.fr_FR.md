@@ -16,7 +16,7 @@
 
  #### Windows
 
- `> make/squirrel.windows/x64/CryptoLogique-1.0.0 Setup.exe`
+ `> make\squirrel.windows\x64\CryptoLogique-1.0.0 Setup.exe`
 
  #### Linux
 
